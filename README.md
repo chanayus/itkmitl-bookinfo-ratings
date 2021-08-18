@@ -8,9 +8,9 @@ MIT License
 
 ## How to run
 
-...bash
+```bash
 node ratings.js 8080
-...
+```
 
 ## Website
 
